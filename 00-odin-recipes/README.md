@@ -1,3 +1,3 @@
 #Recipe Project
 
-This Project will show different recipes and be my first project working with HTML.
+This Project will consist of a main index page which will have links to a few recipes. It is my first project.
